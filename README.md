@@ -1,6 +1,6 @@
 # String Analysis and Editing
 
-##Overview##
+**Overview**
 
 This repository contains Java code and documentation for performing simple analyses and automated editing on given String values. Within this project, there exists multiple functions that each have a different purpose. Each function returns different types of information about the given string's qualities, such as the number of spaces present, the number of vowels, and total letter count, etc. This project also contains functions that can automate certain tasks exclusive to Strings, such as capitalizing the first word, adding extra words before and after the given String, duplicating all iterations of a specific letter, and reversing the entire String.
 
